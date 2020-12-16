@@ -5,9 +5,9 @@
 - [x] Setting up a nav > ul > li relationship
 - [x] Linking our style file
 - [x] Adding some basic styles
-  - [ ] background-color
-  - [ ] border
-- [ ] First flexbox
+  - [x] background-color
+  - [x] border
+- [x] First flexbox
 
 ## 🔗 Resources
 - None!
