@@ -1,0 +1,36 @@
+nav > ul {
+  list-style: none;
+
+  padding: 10px;
+  background-color: #B0E0E6;
+
+  display: flex;
+  flex-wrap: wrap-reverse;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+nav > ul > li {
+  background-color: #6495ED;
+  margin: 5px;
+}
+
+.home {
+  flex: 3 3 200px;
+  order: 2;
+}
+.about {
+  flex: 1 1 200px;
+  order: 1;
+}
+
+#nav-button {
+  height: 50px;
+  width: 100px;
+  text-align: center;
+  border-radius: 10px;
+}
+#nav-button > a {
+  text-decoration: none;
+}
