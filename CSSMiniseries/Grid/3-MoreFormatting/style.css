@@ -1,0 +1,15 @@
+#grid {
+  display: grid;
+
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  grid-template-rows: 50px 50px 50px;
+
+  grid-gap: 5px;
+}
+
+#grid :nth-child(2n) {
+  background-color: #ff6347;
+}
+#grid :nth-child(2n + 1) {
+  background-color: #90ee90;
+}
