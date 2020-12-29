@@ -1,0 +1,27 @@
+#grid {
+  display: grid;
+
+  grid-template-columns: repeat(14, 1fr);
+  grid-template-rows: 50px 50px 50px 50px;
+  grid-gap: 5px;
+}
+
+#grid :nth-child(2n) {
+  background-color: #ff6347;
+}
+#grid :nth-child(2n + 1) {
+  background-color: #90ee90;
+}
+
+/* #header {
+  grid-column: 1 / -1;
+}
+#two {
+  grid-column: 2 / 4;
+}
+#six {
+  grid-row: 2 / 4;
+}
+#nine {
+  grid-column: 4 / -1;
+} */
