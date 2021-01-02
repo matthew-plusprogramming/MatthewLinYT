@@ -10,7 +10,7 @@ This repository holds all of the code I work with on [my youtube channel](https:
 - CSS Miniseries Collection
   - [Flexbox](https://youtube.com/playlist?list=PLBJ1k5JU-Xgj2Quei6aZLsz2GinMOYvFg)
   - [Grid](https://youtube.com/playlist?list=PLBJ1k5JU-XgiBFCnxDFYmitc9x39In8my)
-  - Animations Coming Soon 🚧
+  - [Animations](https://youtube.com/playlist?list=PLBJ1k5JU-XghXmqnw8uCOmlKzGBQWydk9)
   - Variables Coming Soon 🚧
   - Taiwind Coming Soon 🚧
   - Materialize Coming Soon 🚧
