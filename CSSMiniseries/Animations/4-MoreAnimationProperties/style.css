@@ -1,0 +1,27 @@
+h1 {
+  font-size: 40px;
+  padding: 100px;
+
+  /* animation-name: fly-in-left;
+  animation-duration: 1s;
+  animation-timing-function: ease;
+  animation-delay: 3s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate-reverse;
+  animation-fill-mode: both; */
+
+  animation: fly-in-left 1s ease 3s infinite alternate-reverse both;
+}
+/* p {
+  animation: fly-in-left;
+  animation-duration: 1s;
+} */
+
+@keyframes fly-in-left {
+  0% {
+    transform: translateX(-500px) rotate(0);
+  }
+  100% {
+    transform: translateX(0px) rotate(360deg);
+  }
+}
