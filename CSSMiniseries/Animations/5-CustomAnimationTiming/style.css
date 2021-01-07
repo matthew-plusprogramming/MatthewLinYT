@@ -1,0 +1,33 @@
+div {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+
+  animation: pop 0.1s cubic-bezier(0.16, 0.93, 0, 1.53) 0s 1;
+  animation-fill-mode: both;
+}
+
+#a {
+  animation-delay: 0s;
+}
+#b {
+  animation-delay: 0.1s;
+}
+#c {
+  animation-delay: 0.2s;
+}
+#d {
+  animation-delay: 0.3s;
+}
+#e {
+  animation-delay: 0.4s;
+}
+
+@keyframes pop {
+  0% {
+    transform: scale(0);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
