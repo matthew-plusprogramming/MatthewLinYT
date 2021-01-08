@@ -1,0 +1,13 @@
+:root {
+  --main-color: #b0847b;
+}
+
+h1 {
+  color: var(--main-color);
+}
+p {
+  color: var(--main-color);
+}
+.special {
+  color: var(--main-color);
+}
