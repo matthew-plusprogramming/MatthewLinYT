@@ -1,0 +1,67 @@
+:root {
+  --main-color: #b0847b;
+  --standard-height: 100px;
+  --standard-fade-in-animation: fade-in 1s ease;
+}
+
+h1 {
+  color: var(--main-color);
+}
+p {
+  color: var(--main-color);
+  animation: var(--standard-fade-in-animation);
+}
+.special {
+  color: var(--main-color);
+  animation: var(--standard-fade-in-animation);
+}
+
+div {
+  min-height: var(--standard-height);
+  animation: var(--standard-fade-in-animation);
+}
+.red {
+  background-color: red;
+}
+.half-page {
+  width: 50vw;
+}
+.square {
+  width: var(--standard-height);
+}
+
+.dark-section {
+  --main-color: #ffffff;
+  background-color: black;
+}
+
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+:root {
+  --site-font-size: 14px;
+
+  font-size: var(--site-font-size);
+}
+
+h1 {
+  font-size: 4rem;
+}
+h3 {
+  font-size: 1.5rem;
+}
+p {
+  font-size: 1rem;
+}
+
+@media all and (max-width: 500px) {
+  :root {
+    --site-font-size: 10px;
+  }
+}
