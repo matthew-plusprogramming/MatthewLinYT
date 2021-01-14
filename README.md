@@ -11,8 +11,8 @@ This repository holds all of the code I work with on [my youtube channel](https:
   - [Flexbox](https://youtube.com/playlist?list=PLBJ1k5JU-Xgj2Quei6aZLsz2GinMOYvFg)
   - [Grid](https://youtube.com/playlist?list=PLBJ1k5JU-XgiBFCnxDFYmitc9x39In8my)
   - [Animations](https://youtube.com/playlist?list=PLBJ1k5JU-XghXmqnw8uCOmlKzGBQWydk9)
-  - Variables Coming Soon 🚧
-  - Taiwind Coming Soon 🚧
+  - [Variables](https://youtube.com/playlist?list=PLBJ1k5JU-Xgh2jeSvsqYLU-NA6-Asy5Js)
+  - [Tailwind](https://youtube.com/playlist?list=PLBJ1k5JU-Xgi3WDlsjZts9BA6nCjZZArd)
   - Materialize Coming Soon 🚧
 - [Intro To Web Development Series](https://www.youtube.com/playlist?list=PLBJ1k5JU-XghM0f_SBa3cJ_hEV0B6cHTe)
 - [JavaScript For Beginners Series](https://www.youtube.com/playlist?list=PLBJ1k5JU-XgijNWgLtEQ-tiZBYFYCQd-4)
