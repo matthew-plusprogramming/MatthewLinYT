@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+
+  <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+
+</head>
+<body>
+
+  <header>
+    <nav>
+      <ul class="flex bg-blue-200">
+        <li class="p-4 m-4 bg-blue-400 rounded-lg">Home</li>
+        <li class="p-4 m-4 bg-blue-400 rounded-lg">About</li>
+        <li class="p-4 m-4 bg-blue-400 rounded-lg ml-auto">Contact</li>
+        <li class="p-4 m-4 bg-blue-400 rounded-lg">Shop</li>
+      </ul>
+    </nav>
+  </header>
+  <main class="grid grid-cols-12 grid-rows-2">
+    <aside class="h-64 col-span-2 bg-red-500 flex flex-col justify-start items-center">
+      <button class="w-16 h-8 bg-red-200 mt-4">Text</button>
+      <button class="w-16 h-8 bg-red-200 mt-4">Text</button>
+      <button class="w-16 h-8 bg-red-200 mt-4">Text</button>
+      <button class="w-16 h-8 bg-red-200 mt-4">Text</button>
+    </aside>
+    <content class="h-64 col-start-3 col-end-13 bg-green-500">
+      <h1 class="font-bold text-2xl text-center">Site Titlte</h1>
+    </content>
+    <footer class="h-16 col-span-full bg-purple-500"
+  </main>
+
+</body>
+</html>
