@@ -1,0 +1,26 @@
+.nav-wrapper {
+  display: flex;
+  justify-content: center;
+}
+.nav-wrapper > .brand-logo {
+  display: block;
+  left: auto;
+  transform: translateX(0);
+  -webkit-transform: translateX(0);
+}
+.align-right {
+  margin-left: auto;
+}
+.sidenav-trigger {
+  margin-right: auto !important;
+}
+
+.sidenav > li > a {
+  margin: 10px 20px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+.sidenav > li > a:hover {
+  background-color: rgb(220, 220, 220);
+}

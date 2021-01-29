@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+
+  <!-- Compiled and minified CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+  <!-- Compiled and minified JavaScript -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body style="height: 400vh;">
+
+  <header>
+    <nav>
+      <div class="nav-wrapper">
+        <a href="#" class="brand-logo">My Site</a>
+        <a href="#" data-target="sidenav-list" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+        <ul class="align-right hide-on-med-and-down">
+          <li><a href="#">Link Active</a></li>
+          <li><a href="#">Link</a></li>
+          <li><a href="#">Link</a></li>
+          <li><a href="#">Link</a></li>
+        </ul>
+      </div>
+    </nav>
+    <ul class="sidenav" id="sidenav-list">
+      <li><a href="#" class="waves-effect waves-light">Link Active</a></li>
+      <li><a href="#" class="waves-effect waves-light">Link</a></li>
+      <li><a href="#" class="waves-effect waves-light">Link</a></li>
+      <li><a href="#" class="waves-effect waves-light">Link</a></li>
+    </ul>
+  </header>
+
+  <div class="row">
+    <div class="col s12 m6">
+      <div class="card blue-grey darken-2">
+        <div class="card-image">
+          <img class="activator" src="https://materializecss.com/images/sample-1.jpg">
+          <a href="https://materializecss.com/" class="btn-floating btn-large waves-effect waves-light halfway-fab red"><i class="material-icons">add</i></a>
+        </div>
+        <div class="card-content white-text">
+          <h2 style="margin-top: 0">Hello World</h2>
+          <p>This is my card!</p>
+        </div>
+        <div class="card-tabs">
+          <ul class="tabs tabs-fixed-width">
+            <li class="tab"><a href="#test4">Test 1</a></li>
+            <li class="tab"><a class="active" href="#test5">Test 2</a></li>
+            <li class="tab"><a href="#test6">Test 3</a></li>
+          </ul>
+        </div>
+        <div class="card-content grey lighten-4">
+          <div id="test4">Test 1</div>
+          <div id="test5">Test 2</div>
+          <div id="test6">Test 3</div>
+        </div>
+        <div class="card-reveal">
+          <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+          <p>fdasfdsafdsafdasfdsafdsaf.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
