@@ -7,8 +7,8 @@ This repository holds all of the code I work with on [my youtube channel](https:
 - [Tech & Career Playlist](https://youtube.com/playlist?list=PLBJ1k5JU-XghSlzigkODwda8le_joKRtI)
 
 ### Key:
-❓ - Possible Future Videos/Series
-🚧 - Planned For The Future
+❓ Possible Future Videos/Series \
+🚧 Planned For The Future
 
 ### Front End Tutorials:
 - CSS Miniseries Collection
