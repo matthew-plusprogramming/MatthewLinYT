@@ -1,0 +1,16 @@
+#text-input {
+  width: 100%
+}
+
+#date-input {
+  background-color: azure;
+}
+
+#submit-button {
+  font-weight: bold;
+}
+
+.inputs {
+  border-radius: 5px;
+  border-color: rgb(127, 127, 214);
+}

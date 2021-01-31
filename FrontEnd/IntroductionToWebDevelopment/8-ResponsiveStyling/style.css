@@ -1,0 +1,30 @@
+.bordered {
+  border: 1px solid black;
+}
+
+#our-table {
+  width: 80vw;
+}
+
+#blue-background {
+  background-color: blue;
+  color: white;
+  width: 50vw;
+}
+
+#inner-div {
+  background-color: green;
+  width: 50vw;
+}
+
+@media (max-width: 200px) {
+  #blue-background {
+    width: 100vw;
+  }
+}
+
+@media (min-width: 1000px) {
+  #blue-background {
+    width: 20vw;
+  }
+}
