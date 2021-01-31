@@ -23,7 +23,7 @@ This repository holds all of the code I work with on [my youtube channel](https:
 - ❓ Angular Tutorial For Beginners
 
 ### Back End Tutorials:
-- 🚧 Intro To NodeJS
+- [Intro To NodeJS](https://youtube.com/playlist?list=PLBJ1k5JU-Xgj9z-JC8uDsZsevC7TITSUG)
 - 🚧 MongoDB Tutorial
 - 🚧 Postgres Tutorial
 
