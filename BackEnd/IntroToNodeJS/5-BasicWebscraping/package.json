@@ -1,0 +1,15 @@
+{
+  "name": "2-npmandmodules",
+  "version": "1.0.0",
+  "description": "- [x] Installing wsl VSCode extension\r - [x] What is npm?\r - [ ] Initializing an npm project\r - [ ] Built in modules\r - [ ] Third party modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^7.0.0"
+  }
+}
