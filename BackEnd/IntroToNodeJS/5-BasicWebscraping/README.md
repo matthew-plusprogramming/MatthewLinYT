@@ -5,7 +5,7 @@
 - [x] Quick recap
 - [x] Installing puppeteer
 - [x] What is webscraping?
-- [ ] Scraping https://twitchtracker.com/
+- [x] Scraping https://twitchtracker.com/
 
 ## Plan for near future:
 - Ep 6 discord.js
