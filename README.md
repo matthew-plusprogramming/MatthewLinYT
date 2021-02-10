@@ -28,6 +28,7 @@ This repository holds all of the code I work with on [my youtube channel](https:
 - 🚧 Postgres Tutorial
 
 ### General Web:
+- [Node & JS Minilessons](https://youtube.com/playlist?list=PLBJ1k5JU-XghCdFOJXjN3IJurxXZr_3Su)
 - 🚧 Intro To GraphQL
 
 ### Language Introductions:
