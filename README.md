@@ -46,5 +46,4 @@ This repository holds all of the code I work with on [my youtube channel](https:
 
 ### Misc:
 - ❓ Unity Game Programming
-- ❓ Puppeteer Web Scraping
 - ❓ Discord Bot Programming
