@@ -1,0 +1,14 @@
+{
+  "name": "3-basicwebserver",
+  "version": "1.0.0",
+  "description": "- [x] Quick recap\r   - [x] JSON\r   - [x] REST APIs\r - [ ] Initializing npm project\r - [ ] Sending an index html file\r - [ ] Sending JSON as a response",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
