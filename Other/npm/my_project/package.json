@@ -1,0 +1,12 @@
+{
+  "name": "my_project",
+  "version": "1.0.0",
+  "description": "## ✅ Prerequisites: - VSCode/Other IDE - Basic terminal knowledge - Brew (Mac) - WSL (Windows)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Lin",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {}
+}
