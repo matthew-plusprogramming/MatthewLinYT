@@ -19,7 +19,7 @@ This repository holds all of the code I work with on [my youtube channel](https:
   - [Tailwind](https://youtube.com/playlist?list=PLBJ1k5JU-Xgi3WDlsjZts9BA6nCjZZArd)
   - [Materialize](https://youtube.com/playlist?list=PLBJ1k5JU-XgjrlLDxkVSIjcpaggUJBT9X)
 - [Intro To Web Development Series](https://www.youtube.com/playlist?list=PLBJ1k5JU-XghM0f_SBa3cJ_hEV0B6cHTe)
-- 🚧 React Tutorial For Beginners
+- [React Tutorial For Beginners](https://youtube.com/playlist?list=PLBJ1k5JU-Xgg-cYM7135m2XB8YH9wbIHm)
 - ❓ Angular Tutorial For Beginners
 
 ### Back End Tutorials:
