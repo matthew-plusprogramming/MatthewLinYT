@@ -12,3 +12,8 @@
 - [x] Starting our app
 - [x] The App component
 - [x] Our first component
+
+### Episode #3 - Components & Props
+- [x] Styling
+- [x] How to use props
+- [x] Card component
