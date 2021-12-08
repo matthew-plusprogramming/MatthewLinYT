@@ -45,5 +45,6 @@ This repository holds all of the code I work with on [my youtube channel](https:
 - [Snippet Manager Intermedia NodeJS Miniseries](https://youtube.com/playlist?list=PLBJ1k5JU-Xgh_ooD7fGQVLboPh4aVBUZ9)
 
 ### Misc:
+- [AP Computer Science A Preparation](https://youtube.com/playlist?list=PLBJ1k5JU-XghayBt83_pxaPZG6Ur3s2KV)
 - ❓ Unity Game Programming
 - ❓ Discord Bot Programming
